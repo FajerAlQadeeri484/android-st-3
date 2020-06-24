@@ -1,0 +1,32 @@
+1- https://stackoverflow.com/questions/48910837/r-layout-main-cannot-be-found-cannot-resolve-symbol-r
+
+
+(Select Build > Clean Project from the Android Studio toolbar, wait a few moments, and then build your project by selecting Build > Rebuild Project.
+
+If a single clean/rebuild cycle doesn’t work, then try repeating this process a few times, multiple clean/rebuild cycles in quick succession usually work.)
+
+
+
+
+
+
+
+2-https://windowsreport.com/android-emulator-error-installing-apk/
+
+
+(How to fix APK installation error for Android Emulator on Windows
+Update drivers.
+Disable Instant run.
+Enable USB debugging.
+Rebuild the project.
+Sync with Gradle.
+Run Invalidate caches/restart.
+Reinstall Android Studio.)
+
+
+
+
+
+
+
+3-https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
